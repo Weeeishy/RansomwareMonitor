@@ -1,5 +1,5 @@
 
-# RansomwareMonitor
+# RansomwareMonitor (Archived)
 A ransomware group monitoring bot written in C#.
 I used a Windows Form for few reasons, the very first because why not! the second it was the only way I found to "see what was parsed while it was parsed" the third because of the waiter on LockBit blog.
 
